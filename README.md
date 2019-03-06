@@ -1,5 +1,7 @@
 # code-splitting-example
-
+## Slides
+  https://www.slideshare.net/EderNegrete/code-splitting
+  
 ## Project setup
 ```
 yarn install
